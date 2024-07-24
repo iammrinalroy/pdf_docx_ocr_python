@@ -5,7 +5,7 @@ This project is a very simple and basic web application that allows users to con
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/pdf-to-docx-ocr.git
+git clone https://github.com/iammrinalroy/pdf_docx_ocr_python.git
 cd pdf-to-docx-ocr
 
 Install the required Python packages:
